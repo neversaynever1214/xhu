@@ -1,0 +1,82 @@
+.people{
+    width: 1248px;
+    height: 400px;
+    background-color:  rgb(245,244,242);
+}
+/* 左边 */
+.people1{
+    float: left;
+    width: 610px;
+    height: 360px;
+}
+/* 左边标题 */
+.people_top{
+    padding: 10px 0;
+    height: 50pz;
+    width: 610px;
+}
+.min_box{
+    width: 600px;
+    height: 180px;
+
+}
+.pho{
+    padding: 4px;
+    float: left;
+    width: 280px;
+    height: 180px;
+}
+.pho img{
+    width: 100%;
+    height: 100%;
+}
+.intro{
+    padding: 10px;
+    float: right; 
+    width: 290px;
+    height: 150px;
+}
+.mintop a{
+    text-decoration: none;
+    color: rgb(3,47,90);
+}
+.minbottom a{
+    color: gray;
+     text-decoration: none;
+     font-size: 12px;
+     text-indent:1em;
+}
+.minbottom span{
+    float: right;
+    font-size: 10px;
+
+}
+.kx{
+    float: right;
+    width: 610px;
+    height: 360px;
+
+}
+.others{
+    float:left;
+    width: 610px;
+    height: 100px;
+}
+.others li{
+
+    list-style: none;
+    padding: 7px 0;
+}
+.others a{
+    font-size: 14px;
+    text-decoration: none;
+    color: rgb(83, 82, 83);
+}
+.others span{
+    color: rgb(107, 104, 104);
+    float: right;
+    font-size: 14px;
+}
+.others a:hover{
+    color: rgb(231, 96, 42);
+}

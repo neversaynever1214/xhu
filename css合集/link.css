@@ -1,0 +1,156 @@
+
+.link{
+    /* padding: 10px; */
+    width: 1248px;
+    height: 350px;
+    background-color: rgb(0,98,207);
+}
+.linkbox{
+    margin: auto;
+    width: 1220px;
+    height: 300px;
+    /* background-color: rgb(206, 103, 62); */
+}
+
+/* 左 */
+.linkchild1{
+    border-right: 1px solid white;
+    float: left;
+    width: 370px;
+    height: 300px;
+    /* background-color: cadetblue; */
+}
+.bro1{
+    padding-left: 25px;
+    padding-top: 60px;
+    float: left;
+    width: 130px;
+    height: 250px;
+
+}
+.bro1 li{
+    padding: 6px;
+    font-size:10px;
+    list-style:square;
+}
+.bro2{
+    padding-left: 25px;
+    padding-top: 60px;
+    float: left;
+    width: 130px;
+    height: 250px;
+}
+.bro2 li{
+    padding: 6px;
+    font-size:10px;
+    list-style:square;
+}
+.bro1 a{
+    text-decoration: none;
+    color:white;
+}
+.bro2 a{
+    text-decoration: none;
+    color:white;
+}
+.linkchild2{
+    float: left;
+    width: 500px;
+    height: 300px;
+    /* background-color: rgb(137, 157, 158); */
+}
+.linkchild2 img{
+    width: 100%;
+    height: 100%;
+}
+.linkchild3{
+    border-left: 1px solid white;
+    float: right;
+    width: 344px;
+    height: 300px;
+}
+.wechat{
+    /* line-height: 170px; */
+ 
+     width: 344px;
+     height: 100px;
+}
+.message{
+    width: 344px;
+    height: 30px;
+}
+#connect{
+    border-right: none;
+}
+.message a{
+    color: white;
+    float: right;
+    font-size: 8px;
+    text-decoration: none;
+    padding: 0 10px;
+    border-right:2px solid white;
+}
+.number{
+    width: 344px;
+    height: 20px;
+}
+.number span{
+    color: white;
+    float: right;
+    font-size: 8px;
+    padding: 0 10px;
+}
+
+.weihu{
+    float:none;
+    height: 40px;
+    width: 1248px;
+    background-color: rgba(0,76,162);
+}
+.inline_box{
+    padding: 10px 0;
+    height: 30px;
+    width: 600px;
+    margin: 10px 10px 380px 380px;
+}
+/* .weihu ul{
+    text-align: center;
+} */
+.weihu li{
+    padding: 8px 10px;
+    font-size: 12px;
+    list-style: none;
+    float: left;
+}
+#wh,#ICP{
+    text-decoration: none;
+   color: rgba(255, 255, 255, 0.712);
+}
+#ICP:hover{
+    text-decoration: underline;
+
+}
+#POLICE span{
+    text-decoration: none;
+    font-size: 4px;
+    color: gray;
+}
+
+#POLICE img{
+    width: 15px;
+    height: 15px;
+}
+.lastone_box{
+    height: px;
+    background-color: rgb(245,244,242);
+}
+.lastone{
+    margin:auto;
+    width: 65px;
+    height: 60px;
+    
+}
+.lastone img{
+    width: 100%;
+    height: 100%;
+}

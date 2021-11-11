@@ -1,0 +1,73 @@
+.zonghe_bigbox{
+    width: 1248px;
+    height: 400px;
+    background-color: rgb(245,244,242);
+    padding: 10px 0;
+}
+
+.dh3{
+    width: 1230px;
+    height: 30px;
+}
+.main{
+    width: 1248px;
+    height: 340px;
+}
+#zonghexinwen{
+    font-size: 20px;
+    text-decoration: none;
+    color:rgb(32, 52, 114);
+}
+
+
+#go{
+    text-decoration: none;
+    color:gray;
+    float: right;
+    line-height: 30px;
+}
+.focus{
+    float: left;
+    width: 543px;
+    height:305px;
+    background-color: aqua;
+}
+.focus img{
+    width: 100%;
+    height: 100%;
+}
+.pic1_name{
+
+    width: 543px;
+    height: 30px;
+    background-color: rgba(218, 212, 212, 0.575);
+}
+.pic1_name a{
+    color: rgb(32, 52, 114); 
+    text-decoration: none;
+    padding: 0 20px; 
+}
+
+.news{
+    float: right;
+    width: 690px;
+    height: 340px;
+    background-color: rgb(243, 243, 243);
+}
+.news_list li{
+    padding-top: 4px;
+    width: 675px;
+    height: 35px;
+    list-style: none;
+    border-bottom: 0.1px solid rgb(204, 200, 200);
+}
+.news_list a{
+    text-decoration: none;
+    font-size: 15px;
+    color:rgb(32, 52, 114);
+}
+.datesolo{
+    float: right;
+    color: gray;
+    font-size: 14px;
+}

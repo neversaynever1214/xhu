@@ -1,0 +1,28 @@
+
+    /* 轮播图 */ 
+    .lunbo{
+        height: 430px;
+    }
+.imgbox {
+
+width: 60%;
+
+height: 40%;
+
+margin: 0 0 0 20px;
+
+}  
+
+.img {
+    background-attachment: fixed;
+    display: inline-block;
+
+width: 1200px;
+
+height: 400px;
+
+margin: 0 auto;
+
+display: none;
+
+}
